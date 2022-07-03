@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08e41ec9-7de9-4570-8e85-8b480e5cd4b7" name="Changes" comment="软件技术进展讲座大作业：同时运行N台电脑的最长时间">
+    <list default="true" id="08e41ec9-7de9-4570-8e85-8b480e5cd4b7" name="Changes" comment="软件技术进展讲座大作业：同时运行N台电脑的最长时间 2.0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/NComputers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NComputers.java" afterDir="false" />
     </list>
@@ -70,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656819703893</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="软件技术进展讲座大作业：同时运行N台电脑的最长时间 2.0">
+      <created>1656819963669</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656819963669</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,7 +91,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -98,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="软件技术进展讲座大作业：同时运行N台电脑的最长时间" />
-    <option name="LAST_COMMIT_MESSAGE" value="软件技术进展讲座大作业：同时运行N台电脑的最长时间" />
+    <MESSAGE value="软件技术进展讲座大作业：同时运行N台电脑的最长时间 2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="软件技术进展讲座大作业：同时运行N台电脑的最长时间 2.0" />
   </component>
 </project>

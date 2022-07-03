@@ -1,11 +1,10 @@
+import java.util.Scanner;
+
 public class NComputers {
-    static int n;//��������
-    static int []batteries;//�������
+    static int n;//电脑台数
+    static int []batteries;//电池数组
 
     static long solution() {
-        n = 2;
-        batteries = new int[]{1, 1, 1, 1};
-
         int m = batteries.length;
         if(m < n) {
             return 0;
@@ -36,6 +35,16 @@ public class NComputers {
     }
 
     static public void main(String[] args) {
-        System.out.println(solution());
+        System.out.println("请输入电脑运行的台数：");
+        Scanner reader = new Scanner(System.in);
+        n = reader.nextInt();
+        System.out.println("请输入电池个数");
+        int o = reader.nextInt();
+        batteries = new int[o];
+        for(int i = 0; i < o; i++){
+            System.out.println("请输入电池的电量：");
+            batteries[i] = reader.nextInt();
+        }
+        System.out.println("运行时间是：" + solution());
     }
 }
