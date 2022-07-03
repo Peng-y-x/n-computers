@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08e41ec9-7de9-4570-8e85-8b480e5cd4b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n-computers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NComputers.java" afterDir="false" />
+    <list default="true" id="08e41ec9-7de9-4570-8e85-8b480e5cd4b7" name="Changes" comment="软件技术进展讲座大作业：同时运行N台电脑的最长时间">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NComputers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NComputers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +63,14 @@
       <option name="presentableId" value="Default" />
       <updated>1656818858096</updated>
     </task>
+    <task id="LOCAL-00001" summary="软件技术进展讲座大作业：同时运行N台电脑的最长时间">
+      <created>1656819703893</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656819703893</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,10 +78,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="软件技术进展讲座大作业：同时运行N台电脑的最长时间" />
+    <option name="LAST_COMMIT_MESSAGE" value="软件技术进展讲座大作业：同时运行N台电脑的最长时间" />
   </component>
 </project>
